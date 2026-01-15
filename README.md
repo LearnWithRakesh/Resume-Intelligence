@@ -1,1 +1,1 @@
-# Resume-Intelligence
+# IT Resume Intelligence (Streamlit + OpenAI + LangChain RAG)
