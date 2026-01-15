@@ -1,0 +1,19 @@
+Rakesh Kumar Singh
+Senior SDET | Java, Selenium, Playwright | API Automation | CI/CD
+
+SUMMARY
+SDET with 8+ years of experience building automation frameworks and CI pipelines for web and API systems.
+
+SKILLS
+Java, Selenium, Playwright, TypeScript, API Testing, GitHub Actions, Jenkins, Postman
+
+EXPERIENCE
+SDET | McLaren Strategic Ventures | India | Jan 2022 - Present
+- Built UI and API automation across microservices; improved regression reliability by [X%].
+- Integrated CI/CD pipelines to reduce execution time by [N] minutes per run.
+- Standardized test data and reporting to improve triage efficiency by [X%].
+
+PROJECTS
+Playwright API Framework | Playwright, TypeScript, GitHub Actions
+- Designed reusable clients and token management for API automation.
+- Implemented parallel execution and reporting for stable CI runs.

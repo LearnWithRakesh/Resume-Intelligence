@@ -1,0 +1,10 @@
+We are hiring a Senior SDET with strong Playwright/TypeScript experience.
+
+Responsibilities:
+- Build and maintain test automation frameworks for web applications
+- Perform API testing and automation
+- Integrate tests into CI/CD pipelines and improve stability
+- Produce clear reporting and quality metrics
+
+Tools/Tech:
+Playwright, TypeScript, REST APIs, GitHub Actions/Jenkins, Postman, Allure (preferred)
