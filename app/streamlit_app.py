@@ -1,3 +1,11 @@
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[1]  # project root
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
+
 from __future__ import annotations
 
 import json
@@ -12,6 +20,7 @@ from src.agents.resume_writer_agent import generate_resume_draft
 from src.ats import keyword_match
 from src.rag.store import chunk_text, index_documents, retrieve
 from src.rag.personalize import personalize_with_rag
+
 
 
 st.set_page_config(page_title="IT Resume Intelligence", page_icon="🧾", layout="wide")
